@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## dockerty1033 . github . io
 
-You can use the [editor on GitHub](https://github.com/dockerty1033/dockerty1033.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- HOME :: [dockerty1033.github.io](https://dockerty1033.github.io)
+- EMAIL :: [Gmail](https://www.gmail.com) .. [Hover](https://mail.hover.com) .. [Inbox](https://www.inbox.com/login.aspx?gdi=true)
+- WEATHER :: [Boonville](https://www.wunderground.com/weather/us/mo/boonville/38.96,-92.55) .. [MODOT Travel Map](https://traveler.modot.org/map)
+- ANCHORS :: [NEWS](#news) .. [ENTERTAINMENT](#entertainment) .. [REFERENCE](#reference)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# News
 
-### Markdown
+- Politics :: [Gateway Pundit](https://thegatewaypundit.com) .. [News Busters](https://newsbusters.org) .. [News Punch](https://newspunch.com) .. [Wayne Dupree](https://waynedupree.com) .. [Whatfinger](https://whatfinger.com)
+- World :: [Breitbart](https://breitbart.com) .. [Inforwars](https://infowars.com) .. [Natural News](https://naturalnews.com) .. [One News Now](https://onenewsnow.com) .. [Trends](https://trends.gab.com) .. [Woodpile Report](https://woodpilereport.com) .. [Zero Hedge](https://zerohedge.com)
+- Nation :: [Patriot Post](https://patriotpost.us/)
+- Local :: [Missourinet](https://missourinet.com) .. [KMIZ TV](https://abc17news.com) .. [93.9 FM](https://theeagle939.com) .. [Columbia](https://columbiatribune.com) .. [Boonville](https://boonvilledailynews.com)
+- Preparedness :: [Survival Blog](https://survivalblog.com) .. [Survival Podcast](https://thesurvivalpodcast.com)
+- Missions :: [Living Water Christian Mission](https://LivingWaterChristianMission.Org)
+- Satire :: [Babylon Bee](https://babylonbee.com/)
+- ANCHORS :: [NEWS](#news) .. [ENTERTAINMENT](#entertainment) .. [REFERENCE](#reference)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Entertainment
 
-```markdown
-Syntax highlighted code block
+- Gaming :: [Google Play](https://play.google.com) .. [Kongregate](https://kongregate.com) .. [Minecraft](https://minecraftforum.net) .. [Steam](https://store.steampowered.com) .. 
+- Viewing :: [YouTube](https://youtube.com) .. [NetFlix](https://netflix.com) .. [Amazon Prime](https://amazon.com/piv) .. [Forum 8](https://www.goodrichqualitytheaters.com/missouri/forum-8) .. [Hollywood 14](https://fandango.com/columbiahollywoodtheatersstadium14_aaofg/theaterpage) .. 
+[Movieguide](https://movieguide.org) .. [Zap2it TV listings](https://tvlistings.zap2it.com/tvlistings/ZCGrid.do?method=decideFwdForLineup&zipcode=65233&setMyPreference=false&lineupId=PC:65233)
+- Listening :: [Spirit FM](https://spiritfm.org) .. [K-Love](https://klove.com)
+- Shopping :: [Amazon](https://amazon.com) .. [eBay](https://ebay.com) .. [Midway USA](https://midwayusa.com) .. [C&R](https://boonville.crsupermarkets.com/ads) .. [Walmart](https://walmart.com) .. [Consumer Reports](https://consumerreports.org)
 
-# Header 1
-## Header 2
-### Header 3
+# Reference
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dockerty1033/dockerty1033.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Home :: [AllRecipes](http://allrecipes.com) .. [5 ingredients or less](https://www.allrecipes.com/recipes/16397/everyday-cooking/more-meal-ideas/5-ingredients/) .. [Backwoods Home Magazine](https://backwoodshome.com) .. [Dollar Stretcher](http://stretcher.com) .. [FlyLady](http://flylady.com)
+- Garden :: [Missouri frost dates](https://www.plantmaps.com/interactive-missouri-last-frost-date-map.php)
+- Apologetics :: [AiG](https://answersingenesis.org) .. [Apologetics Press](https://apologeticspress.org) .. [Creation.Com](https://creation.com) .. [ICR](https://icr.org) .. [RZIM](https://www.rzim.org/)
+- Education :: [Astronomy Picture of the Day](http://antwrp.gsfc.nasa.gov/apod/astropix.html) .. [Bible Gateway](http://bible.gospelcom.net) .. [BibleHub study tools](https://biblehub.com/) .. [CELLS alive!](http://cellsalive.com) .. [One Year Bible](http://oneyearbibleonline.com/oneyearweeklychrono.php?version=102&startmmdd=0101)
+- Recreation :: [Boonslick Regional Library](http://www.boonslickregionallibrary.com/) .. [LibriVox](https://librivox.org/) .. [Project Gutenberg](http://gutenberg.org) .. [Printable Targets](http://mytargets.com/)
