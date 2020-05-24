@@ -23,6 +23,7 @@
 [Movieguide](https://movieguide.org) .. [Zap2it TV listings](https://tvlistings.zap2it.com/tvlistings/ZCGrid.do?method=decideFwdForLineup&zipcode=65233&setMyPreference=false&lineupId=PC:65233)
 - Listening :: [Spirit FM](https://spiritfm.org) .. [K-Love](https://klove.com)
 - Shopping :: [Amazon](https://amazon.com) .. [eBay](https://ebay.com) .. [Midway USA](https://midwayusa.com) .. [C&R](https://boonville.crsupermarkets.com/ads) .. [Walmart](https://walmart.com) .. [Consumer Reports](https://consumerreports.org)
+- ANCHORS :: [NEWS](#news) .. [ENTERTAINMENT](#entertainment) .. [REFERENCE](#reference)
 
 # Reference
 
@@ -31,3 +32,4 @@
 - Apologetics :: [AiG](https://answersingenesis.org) .. [Apologetics Press](https://apologeticspress.org) .. [Creation.Com](https://creation.com) .. [ICR](https://icr.org) .. [RZIM](https://www.rzim.org/)
 - Education :: [Astronomy Picture of the Day](http://antwrp.gsfc.nasa.gov/apod/astropix.html) .. [Bible Gateway](http://bible.gospelcom.net) .. [BibleHub study tools](https://biblehub.com/) .. [CELLS alive!](http://cellsalive.com) .. [One Year Bible](http://oneyearbibleonline.com/oneyearweeklychrono.php?version=102&startmmdd=0101)
 - Recreation :: [Boonslick Regional Library](http://www.boonslickregionallibrary.com/) .. [LibriVox](https://librivox.org/) .. [Project Gutenberg](http://gutenberg.org) .. [Printable Targets](http://mytargets.com/)
+- ANCHORS :: [NEWS](#news) .. [ENTERTAINMENT](#entertainment) .. [REFERENCE](#reference)
