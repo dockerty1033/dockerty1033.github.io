@@ -1,4 +1,4 @@
-[HOME](https://dockerty1033.github.io) :: [NEWS](#news) .. [FUN](#entertainment) .. [REF](#reference)
+[HOME](https://dockerty1033.github.io) :: [NEWS](#news) .. [FUN](#fun) .. [REF](#ref)
 
 - EMAIL :: [Gmail](https://www.gmail.com) .. [Hover](https://mail.hover.com) .. [Inbox](https://www.inbox.com/login.aspx?gdi=true)
 - WEATHER :: [Boonville](https://www.wunderground.com/weather/us/mo/boonville/38.96,-92.55) .. [MODOT Travel Map](https://traveler.modot.org/map)
@@ -13,7 +13,7 @@
 - Missions :: [Living Water Christian Mission](https://LivingWaterChristianMission.Org)
 - Satire :: [Babylon Bee](https://babylonbee.com/)
 
-[HOME](https://dockerty1033.github.io) :: **NEWS** .. [FUN](#entertainment) .. [REF](#reference)
+[HOME](https://dockerty1033.github.io) :: **NEWS** .. [FUN](#fun) .. [REF](#ref)
 
 # FUN
 
@@ -23,7 +23,7 @@
 - Listening :: [Spirit FM](https://spiritfm.org) .. [K-Love](https://klove.com)
 - Shopping :: [Amazon](https://amazon.com) .. [eBay](https://ebay.com) .. [Midway USA](https://midwayusa.com) .. [C&R](https://boonville.crsupermarkets.com/ads) .. [Walmart](https://walmart.com) .. [Consumer Reports](https://consumerreports.org)
 
-[HOME](https://dockerty1033.github.io) :: [NEWS](#news) .. **FUN** .. [REF](#reference)
+[HOME](https://dockerty1033.github.io) :: [NEWS](#news) .. **FUN** .. [REF](#ref)
 
 # REF
 
@@ -33,4 +33,4 @@
 - Education :: [Astronomy Picture of the Day](http://antwrp.gsfc.nasa.gov/apod/astropix.html) .. [Bible Gateway](http://bible.gospelcom.net) .. [BibleHub study tools](https://biblehub.com/) .. [CELLS alive!](http://cellsalive.com) .. [One Year Bible](http://oneyearbibleonline.com/oneyearweeklychrono.php?version=102&startmmdd=0101)
 - Recreation :: [Boonslick Regional Library](http://www.boonslickregionallibrary.com/) .. [LibriVox](https://librivox.org/) .. [Project Gutenberg](http://gutenberg.org) .. [Printable Targets](http://mytargets.com/)
 
-[HOME](https://dockerty1033.github.io) :: [NEWS](#news) .. [FUN](#entertainment) .. **REF**
+[HOME](https://dockerty1033.github.io) :: [NEWS](#news) .. [FUN](#fun) .. **REF**
