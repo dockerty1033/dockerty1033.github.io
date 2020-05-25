@@ -3,7 +3,7 @@
 - *EMAIL* :: [Gmail](https://www.gmail.com) .. [Hover](https://mail.hover.com) .. [Inbox](https://www.inbox.com/login.aspx?gdi=true)
 - *WEATHER* :: [Boonville](https://www.wunderground.com/weather/us/mo/boonville/38.96,-92.55) .. [MODOT Travel Map](https://traveler.modot.org/map)
 
-## NEWS
+### NEWS
 
 - *Politics* :: [Gateway Pundit](https://thegatewaypundit.com) .. [News Busters](https://newsbusters.org) .. [News Punch](https://newspunch.com) .. [Wayne Dupree](https://waynedupree.com) .. [Whatfinger](https://whatfinger.com)
 - *World* :: [Breitbart](https://breitbart.com) .. [Inforwars](https://infowars.com) .. [Natural News](https://naturalnews.com) .. [One News Now](https://onenewsnow.com) .. [Trends](https://trends.gab.com) .. [Woodpile Report](https://woodpilereport.com) .. [Zero Hedge](https://zerohedge.com)
@@ -14,7 +14,7 @@
 
 [**HOME**](https://dockerty1033.github.io) :: NEWS .. [**FUN**](#fun) .. [**REF**](#ref)
 
-## FUN
+### FUN
 
 - *Gaming* :: [Google Play](https://play.google.com) .. [Kongregate](https://kongregate.com) .. [Minecraft](https://minecraftforum.net) .. [Steam](https://store.steampowered.com)
 - *Listening* :: [Spirit FM](https://spiritfm.org) .. [K-Love](https://klove.com)
@@ -24,7 +24,7 @@
 
 [**HOME**](https://dockerty1033.github.io) :: [**NEWS**](#news) .. FUN .. [**REF**](#ref)
 
-# REF
+### REF
 
 - *Home* :: [AllRecipes](http://allrecipes.com) .. [5 ingredients or less](https://www.allrecipes.com/recipes/16397/everyday-cooking/more-meal-ideas/5-ingredients/) .. [Backwoods Home Magazine](https://backwoodshome.com) .. [Dollar Stretcher](http://stretcher.com) .. [FlyLady](http://flylady.com)
 - *Garden* :: [Missouri frost dates](https://www.plantmaps.com/interactive-missouri-last-frost-date-map.php)
