@@ -6,11 +6,12 @@
 ### NEWS
 
 - *Politics* :: [Gateway Pundit](https://thegatewaypundit.com) .. [News Busters](https://newsbusters.org) .. [News Punch](https://newspunch.com) .. [Wayne Dupree](https://waynedupree.com) .. [Whatfinger](https://whatfinger.com)
-- *World* :: [Breitbart](https://breitbart.com) .. [Inforwars](https://infowars.com) .. [Natural News](https://naturalnews.com) .. [One News Now](https://onenewsnow.com) .. [Trends](https://trends.gab.com) .. [Woodpile Report](https://woodpilereport.com) .. [Zero Hedge](https://zerohedge.com)
-- *Nation* :: [Patriot Post](https://patriotpost.us/)
+- *World* :: [Breitbart](https://breitbart.com) .. [Inforwars](https://infowars.com) .. [Natural News](https://naturalnews.com) .. [One News Now](https://onenewsnow.com) .. [Trends](https://trends.gab.com) .. [Zero Hedge](https://zerohedge.com)
+- *Nation* :: [American Digest](https://americandigest.org) .. [Patriot Post](https://patriotpost.us/)
 - *Local* :: [Missourinet](https://missourinet.com) .. [KMIZ TV](https://abc17news.com) .. [93.9 FM](https://theeagle939.com) .. [Columbia](https://columbiatribune.com) .. [Boonville](https://boonvilledailynews.com)
 - *Preparedness* :: [Survival Blog](https://survivalblog.com) .. [Survival Podcast](https://thesurvivalpodcast.com)
 - *Satire* :: [Babylon Bee](https://babylonbee.com/)
+- *R.I.P. Remus* :: [Woodpile Report](https://woodpilereport.com)
 
 [**HOME**](https://dockerty1033.github.io) :: NEWS .. [**FUN**](#fun) .. [**REF**](#ref)
 
