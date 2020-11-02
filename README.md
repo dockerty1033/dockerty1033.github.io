@@ -9,7 +9,7 @@
 - *World* :: [Breitbart](https://breitbart.com) .. [Inforwars](https://infowars.com) .. [Natural News](https://naturalnews.com) .. [One News Now](https://onenewsnow.com) .. [Trends](https://trends.gab.com) .. [Zero Hedge](https://zerohedge.com)
 - *Nation* :: [American Digest](https://americandigest.org) .. [Patriot Post](https://patriotpost.us/)
 - *Local* :: [Missourinet](https://missourinet.com) .. [KMIZ TV](https://abc17news.com) .. [93.9 FM](https://theeagle939.com) .. [1400 AM](https://www.kfru.com) .. [Columbia](https://columbiatribune.com) .. [Boonville](https://boonvilledailynews.com)
-- *Elections* :: [MO Secretary of State](https://www.sos.mo.gov/elections) .. [Cooper County Clerk](https://clerk.coopercountymo.gov) .. [2020 Nov Amendments](https://www.ky3.com/2020/10/11/on-your-side-what-to-know-about-missouri-amendment-1-and-amendment-3)
+- *Elections* :: [MO Secretary of State](https://www.sos.mo.gov/elections) .. [Cooper County Clerk](https://clerk.coopercountymo.gov) .. [2020 Nov Amendments](https://www.ky3.com/2020/10/11/on-your-side-what-to-know-about-missouri-amendment-1-and-amendment-3) .. [Ballotpedia Amendment 3](https://ballotpedia.org/Missouri_Amendment_3,_Redistricting_Process_and_Criteria,_Lobbying,_and_Campaign_Finance_Amendment_(2020))
 - *Preparedness* :: [Survival Blog](https://survivalblog.com) .. [Survival Podcast](https://thesurvivalpodcast.com)
 - *Satire* :: [Babylon Bee](https://babylonbee.com/)
 - *R.I.P. Remus* :: [Woodpile Report](https://woodpilereport.com)
